@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachellsincere
 - 👀 I’m interested in Bioinformatics, Healthcare Data Analysis, Cybersecurity, Ethical hacking 
 - 🌱 I’m currently learning Python,SQL,Swift,Registered Nursing
-- 💞️ I’m looking to collaborate on Data mining/analysis projects 
+- 💞️ I’m looking to collaborate on Data mining/analysis projects, hackathons 
 - 📫 How to reach me: Rachellsincere@gmail.com
 
 <!---
